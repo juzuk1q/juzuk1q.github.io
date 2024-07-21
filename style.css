@@ -111,7 +111,7 @@ span{
     line-height: 1;
 }
 .home-img{
-    border-radius: 50%;
+    border-radius: 9%;
 }
 .home-img img{
     position: relative;
