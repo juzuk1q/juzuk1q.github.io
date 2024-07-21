@@ -1,3 +1,1 @@
-# juzuk1q.github.io
- 
-:)
+# qq, im juzuk1q | :)
