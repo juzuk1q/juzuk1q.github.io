@@ -117,7 +117,7 @@ span{
     position: relative;
     top: 3rem;
     width: 32vw;
-    border-radius: 50%;
+    border-radius: 9%;
     box-shadow: 0 0 25px var(--main-color);
     cursor: pointer;
     transition: 0.4s ease-in-out;
@@ -254,7 +254,7 @@ span{
 }
 .friends-box img{
     width: 20rem;
-    border-radius: 50%;
+    border-radius: 15%;
     border: 3px solid var(--main-color);
     box-shadow: 0 0 25px var(--main-color);
     
@@ -269,7 +269,7 @@ span{
     max-width: 450px;
     background: rgba(0, 0, 0, 0.7);
     border: 3px solid rgba(238, 238, 238, 0.2);
-    border-radius:2rem;
+    border-radius: 2rem;
     margin: 0 2rem;
     padding: 30px 60px;
     cursor: pointer;
@@ -358,8 +358,11 @@ span{
         margin: 3rem 0;
         color: white;
     }
+    .home-img img{
+        width: 56vw;
+    }
     .home{
-        flex-direction: column-reverse;
+        flex-direction: column;
         margin: 5rem 4rem;
     }
     .home-content h3{
@@ -373,8 +376,6 @@ span{
         max-width: 600px;
         margin: 0 auto;
     }
-    .home-img img{
-        width: 56vw;
-    }
+    
     
 }
